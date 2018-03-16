@@ -8,6 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="HelloWorld_Textblock" HorizontalAlignment="Center" Text="Hello World!" TextWrapping="Wrap" VerticalAlignment="Center"  FontSize="48"/>
 
     </Grid>
 </Page>
